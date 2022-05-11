@@ -1,9 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-productive-box
-github-stats-box
-
 
 <!--
 **Yukyung0622/Yukyung0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
