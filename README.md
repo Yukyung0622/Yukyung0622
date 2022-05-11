@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/M-EA4335?style=flat-square&logo=kkmomang0622@gmail.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 <!--
