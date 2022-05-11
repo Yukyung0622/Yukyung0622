@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=kkmomang0622@gmail.com&logoColor=white"/>
+
 
 <!--
 **Yukyung0622/Yukyung0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
