@@ -1,7 +1,8 @@
-# Kim Yu Kyung 👩‍💻
+### Kim Yu Kyung 👩‍💻
 
-Email
-<br/><img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+##### <Email📩 >
+<img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 <!--
