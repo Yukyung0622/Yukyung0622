@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=orange"/>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukyung0622&show_icons=true&theme=vue)
+
+
 
 
 
