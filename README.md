@@ -23,7 +23,7 @@ https://yukyung0622.github.io
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=orange"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukyung0622&layout=compact)](https://github.com/Yukyung0622/github-readme-stats) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Github stats
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukyung0622&show_icons=true&theme=vue) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukyung0622)](https://github.com/anuraghazra/github-readme-stats)
