@@ -3,8 +3,8 @@
 ## <div align=center> Kim Yu Kyung 👩‍💻 <div>
 
 
-### 📩Email 
-<img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+### <div align=center> 📩Email <div>
+<div align=center> <img src="https://img.shields.io/badge/kkmomang0622@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <div>
 
 
 
